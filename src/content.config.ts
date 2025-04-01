@@ -15,14 +15,7 @@ const blog = defineCollection({
 	}),
 });
 
-const pizzas = defineCollection({
-	loader: file("src/content/data/pizzas.json"),
-	schema: z.object({
-	  id: z.number(),
-	  pizzaName: z.string(),
-	  ingredients: z.array(z.string()),
-	}),
-  });
+
 
   const works = defineCollection({
 	// Load Markdown and MDX files in the `src/content/blog/` directory.
@@ -40,4 +33,4 @@ const pizzas = defineCollection({
 });
 
 
-export const collections = { blog, pizzas, works };
+export const collections = { blog, works };
