@@ -2,7 +2,7 @@
 title: 'Olive oil '
 description: "Jai realiser la maquettes de site pour une marque de marque d'huile d'olives de luxe" 
 pubDate: 'mar 25 2025'
-heroImage: '/Olive.png'
+heroImage: '/melihsati.github.io/Olive.png'
 ---
 
 J’ai créé un prototype de one page pour une marque d’huile d’olive de luxe sur Figma. Pour commencer, j’ai réalisé un moodboard afin de rassembler des inspirations visuelles et définir l’univers graphique du site : des tons élégants, une typographie raffinée et une mise en page épurée pour refléter le côté premium du produit.
