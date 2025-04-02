@@ -15,7 +15,7 @@ const posts = (await getCollection('blog')).sort(
 					{
 						posts.map((post) => (
 							<li class="w-115 h-120 bg-quaternary pb-5 m-1 rounded-2xl shadow-xl">
-								<a href={`/blog/${post.id}/`}>
+								<a href={`/melihsati.github.io/blog/${post.id}/`}>
 									<img class="" src={post.data.heroImage} alt="" />
 									<h4 class="title text-center text-2xl text-tertiary">{post.data.title}</h4>
 									<p class=" p-4 text-center">{post.data.description}</p>
