@@ -2,7 +2,7 @@
 title: 'Site apple'
 description: 'Jai realiser le site de apple sous wordpresse pour un projet universitaire'
 pubDate: 'mar 25 2025'
-heroImage: '/melihsati.github.io/Desktop5.png'
+heroImage: '/Desktop5.png'
 ---
 
 Dans ce projet notre objectif était de créer ou de réinventer le parcours utilisateur, et plus précisément le tunnel d'achat d'une entreprise choisie. Nous devions également intégrer ou repenser l'option de click and collect. Pour cela, nous disposions de deux semaines et travaillions en binôme. 
