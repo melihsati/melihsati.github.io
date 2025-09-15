@@ -1,6 +1,6 @@
 ---
 title: 'Olive oil '
-description: "Jai realiser la maquettes de site pour une marque de marque d'huile d'olives de luxe" 
+description: "J'ai realisé la maquette de site pour une marque d'huile d'olive de luxe." 
 pubDate: 'mar 25 2025'
 heroImage: '/Olive.png'
 ---

@@ -1,6 +1,6 @@
 ---
-title: 'Site apple'
-description: 'Jai realiser le site de apple sous wordpresse pour un projet universitaire'
+title: 'Site Apple'
+description: "J'ai realisé le site de Apple sous wordpresse pour un projet universitaire."
 pubDate: 'mar 25 2025'
 heroImage: '/Desktop5.png'
 ---

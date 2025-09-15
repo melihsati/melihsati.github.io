@@ -1,6 +1,6 @@
 ---
 title: 'One piece Airbnb'
-description: "Jai realiser une application du monde réel dans un univers de fiction" 
+description: "j'ai realisé une application du monde réel dans un univers de fiction." 
 pubDate: 'mar 25 2025'
 heroImage: '/Onepiece.png'
 ---
