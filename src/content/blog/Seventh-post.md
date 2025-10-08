@@ -2,7 +2,7 @@
 title: 'Lieu touristique'
 description: "J'ai realisé une vidéo avec after effect." 
 pubDate: 'mar 25 2025'
-heroImage: '/touriste.png'
+heroImage: '/tourist.png'
 ---
 
 J’ai créé une vidéo qui présente un lieu touristique en utilisant After Effects.
