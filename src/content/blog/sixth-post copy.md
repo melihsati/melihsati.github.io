@@ -2,7 +2,7 @@
 title: 'Flyers'
 description: "j'ai realisé une application du monde réel dans un univers de fiction." 
 pubDate: 'mar 25 2025'
-heroImage: '/flyers-all.png'
+heroImage: '/Flyers-all.png'
 ---
 
 J’ai créé un prototype de one page pour une marque d’huile d’olive de luxe sur Figma. Pour commencer, j’ai réalisé un moodboard afin de rassembler des inspirations visuelles et définir l’univers graphique du site : des tons élégants, une typographie raffinée et une mise en page épurée pour refléter le côté premium du produit.
