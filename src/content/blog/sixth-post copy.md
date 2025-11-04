@@ -1,6 +1,6 @@
 ---
 title: 'Flyers'
-description: "j'ai realisé une application du monde réel dans un univers de fiction." 
+description: "J'ai réalisé une série de flyers pour Hiero Limoges" 
 pubDate: 'mar 25 2025'
 heroImage: '/flyersall.png'
 ---
