@@ -1,7 +1,7 @@
 ---
 title: 'Lieu touristique'
 description: "J'ai realisé une vidéo avec after effect." 
-pubDate: 'mar 25 2025'
+pubDate: 'Décembre 2024'
 heroImage: '/tourist.png'
 ---
 

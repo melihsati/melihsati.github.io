@@ -1,7 +1,7 @@
 ---
 title: 'Flyers'
 description: "J'ai réalisé une série de flyers pour Hiero Limoges" 
-pubDate: 'mar 25 2025'
+pubDate: 'Octobre 2025'
 heroImage: '/flyersall.png'
 ---
 
