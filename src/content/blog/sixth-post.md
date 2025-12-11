@@ -1,5 +1,5 @@
 ---
-title: 'Environnement3D'
+title: 'Environnement 3D'
 description: "J’ai réalisé un environnement 3D inspiré d’un jeu." 
 pubDate: 'Octobre 2025'
 heroImage: '/3d.png'
