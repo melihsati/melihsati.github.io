@@ -20,6 +20,7 @@ const posts = (await getCollection('blog')).sort(
 									<h4 class="title text-center text-2xl text-tertiary">{post.data.title}</h4>
 									<p class=" p-4 text-center">{post.data.description}</p>
 									<p class=" p-2 pl-2"> <FormattedDate date={post.data.pubDate} /> </p>
+									<viewtransition name="fade" mode="out-in"></viewtransition>
 							
 								</a>
 							</li>
